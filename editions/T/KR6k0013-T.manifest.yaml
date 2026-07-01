@@ -1,0 +1,238 @@
+canonical_identifier: bkk:krp/KR6k0013/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0013/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 曇無德律部雜羯磨
+  identifiers:
+    krp: KR6k0013
+    cbeta: T22n1432
+    cbeta_old_id: T22n1432
+    authorityid: CA0003214
+    json_key: T1432
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T22/T22n1432.xml
+    old_id: T22n1432
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0013_000-T.yaml, hash: 'sha256:92f0b26d8fea45385e81433e24d5b83143b3d593c888183da88324d641bd38f2'}
+  - {seq: 1, filename: KR6k0013_001-T.yaml, hash: 'sha256:834cb3296f5ec25689153fcf53caeb5c8dc2c8df557b6e68e9d290d705c53a54'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0013_000-T.markers.yaml, hash: 'sha256:cb19fdd9e9159075cbde9e5aab672ff46711eceba6dba9d59f792a951431fb0d'}
+  - {seq: 1, role: markers, filename: assets/KR6k0013_001-T.markers.yaml, hash: 'sha256:57444addcbafda262a7d32fb68527192ecce55e6385705aa27b005fac1824ede'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 15621
+  label: 曇無德律部雜羯磨《四分》
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 比丘羯磨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-2
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 諸結戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-3
+    span:
+    - body
+    - 1161
+    - 1161
+  label: 2 受戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-4
+    span:
+    - body
+    - 3285
+    - 3285
+  label: 3 諸除罪法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-5
+    span:
+    - body
+    - 5526
+    - 5526
+  label: 4 說戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-6
+    span:
+    - body
+    - 6402
+    - 6402
+  label: 5 安居法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-7
+    span:
+    - body
+    - 6903
+    - 6903
+  label: 6 自恣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-8
+    span:
+    - body
+    - 7928
+    - 7928
+  label: 7 分衣物法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-9
+    span:
+    - body
+    - 8677
+    - 8677
+  label: 8 作淨法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-10
+    span:
+    - body
+    - 9292
+    - 9292
+  label: 9 雜法第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-11
+    span:
+    - body
+    - 9725
+    - 9725
+  label: 比丘尼羯磨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-12
+    span:
+    - body
+    - 9740
+    - 9740
+  label: 1 諸結界法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-13
+    span:
+    - body
+    - 9766
+    - 9766
+  label: 2 受戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-14
+    span:
+    - body
+    - 13736
+    - 13736
+  label: 3 除罪法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-15
+    span:
+    - body
+    - 14586
+    - 14586
+  label: 4 說戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-16
+    span:
+    - body
+    - 14977
+    - 14977
+  label: 5 安居法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-17
+    span:
+    - body
+    - 15012
+    - 15012
+  label: 6 自恣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-18
+    span:
+    - body
+    - 15427
+    - 15427
+  label: 7 分衣物法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-19
+    span:
+    - body
+    - 15487
+    - 15487
+  label: 8 作淨法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0013_T_001-mulu-20
+    span:
+    - body
+    - 15520
+    - 15520
+  label: 9 雜法
+  type: mulu
+  level: 1
+hash: sha256:e0ac1f29a26df1f6c31fb22b3336dcfa125c46771be605969b6a9c35265e62a2

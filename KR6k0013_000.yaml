@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0013/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 曇無德律部雜羯磨
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T22/T22n1432.xml
+    old_id: T22n1432
+hash: sha256:92f0b26d8fea45385e81433e24d5b83143b3d593c888183da88324d641bd38f2
