@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0013/v1
 canonical_location: https://kanripo.org/bkk/KR6k0013/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 曇無德律部雜羯磨
   identifiers:
@@ -40,10 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0013_000.yaml, hash: 'sha256:92f0b26d8fea45385e81433e24d5b83143b3d593c888183da88324d641bd38f2'}
-  - {seq: 1, filename: KR6k0013_001.yaml, hash: 'sha256:834cb3296f5ec25689153fcf53caeb5c8dc2c8df557b6e68e9d290d705c53a54'}
+  - {seq: 1, filename: KR6k0013_001.yaml, hash: 'sha256:a9ddd8dd28716338b7f6e09869bdc46dcdb6fcd159ac49b28ab854dc91411875'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0013_000.markers.yaml, hash: 'sha256:c9d286df690189e3cdc450f24918894926554e8d0170dbffb9130607ad6d8491'}
-  - {seq: 1, role: markers, filename: assets/KR6k0013_001.markers.yaml, hash: 'sha256:34ca1323ce152be7bcc24955a3397d74233462bb993322bcf65fea71cc8eba55'}
+  - {seq: 1, role: markers, filename: assets/KR6k0013_001.markers.yaml, hash: 'sha256:687a10bb4b09cc75764bd6a6cfabd33722373401fd756fdb7f6c05225d5ccf5a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -255,4 +255,7 @@ table_of_contents:
   label: 9 雜法
   type: mulu
   level: 1
-hash: sha256:304e6971ae642caf49ee453b2ea0a9402550aa1c03843ae4708026f0b3407435
+hash: sha256:44aa117f7c47bd3e45c802284127e3aada2043303522df18c1cec2a7a545fcff
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
